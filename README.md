@@ -15,9 +15,7 @@ Algoritmo de Planificación RR (Round-Robin)
 6. Deberá mostrarse en pantalla:
 
     -a. Listar número de procesos en estado Nuevo.
-    
-    -b. Valor del Quantum.
-    
+    -b. Valor del Quantum
     -c. Cola de listos:
     
       -i. Identificador de Proceso.
