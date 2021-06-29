@@ -13,9 +13,13 @@ Algoritmo de Planificación RR (Round-Robin)
 5. Teclas a utilizar:
 <img src="https://cdn.discordapp.com/attachments/762088441314934794/859570673507500092/unknown.png" width="692" height="612">
 6. Deberá mostrarse en pantalla:
+
     -a. Listar número de procesos en estado Nuevo.
+    
     -b. Valor del Quantum.
+    
     -c. Cola de listos:
+    
       -i. Identificador de Proceso.
       -ii. Tiempo Máximo Estimado. 
       -iii. Tiempo Transcurrido.
